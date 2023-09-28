@@ -11,8 +11,8 @@ The Zoo Manager WPF App is a user-friendly application designed to help you effi
 
 ## Prerequisites
 
-- .NET Framework [version]
-- SQL Server [version]
+- .NET Framework
+- SQL Server
 
 ## Installation
 
